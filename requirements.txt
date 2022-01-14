@@ -1,0 +1,17 @@
+beautifulsoup4
+cryptography
+pycryptodome
+requests
+urllib3
+lxml
+loguru
+Pillow
+mmh3
+opencv-python
+psutil
+websocket-client
+selenium-wire
+packaging
+tenacity
+numba
+requests-html
