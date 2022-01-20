@@ -14,4 +14,3 @@ selenium-wire
 packaging
 tenacity
 numba
-requests-html

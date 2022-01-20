@@ -1,0 +1,36 @@
+{
+  "like_limit": 100,
+  "is_like": {
+    "fast": {
+      "money": true,
+      "other": true
+    },
+    "money": false,
+    "other": false
+  },
+  "fake": false,
+  "auto_update": false,
+  "restart_every_hours": 10,
+  "retries_to_solve_captcha": 10,
+  "sleep_time": [
+    70,
+    200
+  ],
+  "contest_delay": [
+    0,
+    1
+  ],
+  "telegram": {
+    "bot_token": "",
+    "telegram_id": "",
+    "info_mod": true,
+    "error_mod": true
+  },
+  "like_black_list": [],
+  "proxy": {
+    "account_proxy": [
+      ""
+    ],
+    "proxy_type": "https"
+  }
+}
