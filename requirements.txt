@@ -1,16 +1,16 @@
+wheel # might help to install mmh3 without microsoft c++ build tools, unconfirmed
+eventlet
 beautifulsoup4
-cryptography
-pycryptodome
 requests
-urllib3
-lxml
-loguru
-Pillow
+urllib3>=1.26.0 # for https proxies. you don't want to know how i figured that one out
+pysocks
+colorama
+Pillow # you can change this to Pillow-SIMD if you want to squeze out a bit of perfomance.
+traceback_with_variables
+coloredlogs
+verboselogs
+numpy
 mmh3
-opencv-python
-psutil
-websocket-client
-selenium-wire
-packaging
-tenacity
-numba
+pycryptodome
+noise
+vectormath

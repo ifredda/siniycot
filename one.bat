@@ -1,3 +1,4 @@
-pushd %~dp0
-py loop.py main.py
+@echo off
+title Name
+py main.py
 pause
